@@ -1,0 +1,7 @@
+0.0.0.0 ned.itv.com
+0.0.0.0 tom.itv.com
+0.0.0.0 toots-a.akamaihd.net
+0.0.0.0 cdn.http.anno.channel4.com
+0.0.0.0 bill.itv.com
+0.0.0.0 cdn.ss.anno.channel4.com
+0.0.0.0 vc4ads.2cnt.net
